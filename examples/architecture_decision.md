@@ -228,7 +228,7 @@ Claude synthesizes the following recommendation:
 
 **The outlier was the most valuable response.** Three models dove straight into implementation details for distributed systems. Grok stepped back and questioned whether distributed systems were needed at all. Without the council, you likely would have spent 2-3 weeks setting up Redis Streams or RabbitMQ, only to realize later that `asyncio` did the job.
 
-**"What are you actually building?" is the most powerful question in architecture.** Platform decisions require platform architecture. Tool decisions require tool architecture. Mixing them up is one of the most common (and expensive) mistakes in software engineering. Grok's "trading platform or trading tool?" question is the kind of reframe you run a council to get.
+**"What are you actually building?" is the most useful question in architecture.** Platform decisions require platform architecture. Tool decisions require tool architecture. Mixing them up is one of the most common (and expensive) mistakes in software engineering. Grok's "trading platform or trading tool?" question is the kind of reframe you run a council to get.
 
 **The council prevented weeks of unnecessary work.** Not just the distributed systems setup, but the ongoing operational burden. A RabbitMQ or Kafka deployment that a 2-person team has to maintain on weekends is a cost that compounds forever. The council caught this before the first line of infrastructure code was written.
 

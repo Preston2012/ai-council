@@ -149,7 +149,7 @@ For a data visualization dashboard, the charting library determines 70% of your 
 The real evaluation should be:
 
 - *D3.js*: Maximum control, steep learning curve, works with any framework. If you need custom financial visualizations (candlestick charts, heatmaps with custom color scales, interactive scatter plots with brushing), D3 is the only option that won't fight you.
-- *Apache ECharts*: Incredibly powerful out of the box. Handles 100K+ data points without breaking a sweat. Has wrappers for React, Vue, Angular, and Svelte. If your charts are mostly standard types (line, bar, area, pie, scatter), ECharts is the fastest path to a polished result.
+- *Apache ECharts*: Full-featured out of the box. Handles 100K+ data points without breaking a sweat. Has wrappers for React, Vue, Angular, and Svelte. If your charts are mostly standard types (line, bar, area, pie, scatter), ECharts is the fastest path to a polished result.
 - *Plotly*: Strong for scientific and analytical visualizations. Excellent hover tooltips and interactivity out of the box. Heavier bundle size.
 - *Observable Plot*: Newer, lightweight, great API design. But less mature for production dashboard use.
 

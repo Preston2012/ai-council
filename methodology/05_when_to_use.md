@@ -104,10 +104,9 @@ Sometimes the overhead isn't justified even for important work:
 
 This decision framework, applied across 500+ sessions, produced:
 
-- **6 production applications** shipped and running
+- **6 application projects** produced (1 published, 1 in closed testing, 1 prototype, 3 in development/design)
 - **100,000+ lines of code** across multiple tech stacks
 - **390+ quality rules** refined through real use
-- **Zero major architecture reversals** in council-reviewed decisions
 
 The council method isn't about using it everywhere. It's about knowing when the overhead buys you something single-model workflows can't: coverage, confidence, and correctness on the decisions that matter most.
 

@@ -12,11 +12,10 @@ This is not an automated pipeline. This is not a wrapper or an SDK. This is a do
 
 | Metric | Count |
 |--------|-------|
-| Production applications shipped | 6 |
+| Application projects produced | 6 (1 published, 1 closed testing, 1 prototype, 3 in development/design) |
 | Lines of code produced | 100,000+ |
 | Quality rules documented | 390+ |
 | Build sessions completed | 500+ |
-| Major architecture reversals | 0 |
 
 ---
 
@@ -123,7 +122,7 @@ The AI Council Method produced these projects:
 - **[Trading Toolkit](https://github.com/Preston2012/trading-toolkit)** - Trading application with real-time data processing and portfolio management
 - **[Portfolio](https://baseline.marketing/built)** - Live portfolio showcasing applications built with this methodology
 
-Six production applications. 100,000+ lines of code. Zero major architecture reversals on council-reviewed decisions.
+6 application projects (1 published on app stores, 1 in closed testing, 1 functional prototype, 3 in development/design). 100,000+ lines of code across all projects.
 
 ## Contributing
 
@@ -133,7 +132,7 @@ The bar is the same one applied to the methodology itself: real experience, conc
 
 ## Contact
 
-Preston - [Droiddna2013@gmail.com](mailto:Droiddna2013@gmail.com)
+Preston - [preston@baseline.marketing](mailto:preston@baseline.marketing)
 
 ## License
 

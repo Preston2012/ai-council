@@ -6,7 +6,7 @@ The ceiling is not about capability. It is about perspective. One model gives yo
 
 The AI Council Method breaks that ceiling by running multiple models in parallel, independently, on the same task, then using human judgment to reconcile the strongest elements into a single output. This is not a committee. This is not an automated pipeline. This is one human orchestrating 2-4 AI models like a technical review board, producing engineer-quality work across every layer of a software project.
 
-This methodology was forged across 500+ build sessions, 6 production applications, and 100,000+ lines of shipping code. It is documented in 390+ quality rules. It works.
+This methodology was developed across 500+ build sessions, 6 application projects, and 100,000+ lines of code. It is documented in 390+ quality rules. It works.
 
 
 ## Core Terminology
@@ -52,7 +52,7 @@ The detailed, step-by-step version of this workflow lives in [Session Workflow](
 
 This is not a theoretical framework. It has been pressure-tested across real production work.
 
-- **6 production applications** currently running in production, built primarily through council sessions. Public examples include [Baseline Showcase](https://github.com/Preston2012/baseline-showcase) and [Trading Toolkit](https://github.com/Preston2012/trading-toolkit). Live work is visible at [baseline.marketing/built](https://baseline.marketing/built).
+- **6 application projects** at various stages (1 published on app stores, 1 in closed testing, 1 functional prototype, 3 in development/design), built primarily through council sessions. Public examples include [Baseline Showcase](https://github.com/Preston2012/baseline-showcase) and [Trading Toolkit](https://github.com/Preston2012/trading-toolkit). Live work is visible at [baseline.marketing/built](https://baseline.marketing/built).
 
 - **100,000+ lines of code** across these applications, covering React frontends, Node.js backends, Python data pipelines, database schemas, API integrations, and deployment configurations.
 
