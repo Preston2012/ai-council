@@ -137,3 +137,18 @@ Preston - [preston@baseline.marketing](mailto:preston@baseline.marketing)
 ## License
 
 [MIT](LICENSE)
+
+
+---
+
+## Methodology in use
+
+This methodology is not theoretical. It is in active use across:
+
+- **[Demiurge](https://github.com/Preston2012/demi).** Open-source memory engine for AI agents. Every architectural decision, prompt iteration, and benchmark configuration runs through council reconciliation.
+- **[Ouroboros](https://github.com/Preston2012/ouroboros).** Governance architecture document. Drafted, audited, and refined via council reconciliation across multiple model families.
+- **[Baseline](https://github.com/Preston2012/baseline-showcase).** Political intelligence platform. Built solo using this methodology.
+
+Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec + benchmark for personal AI memory, drafted and audited via council.
+
+[Preston Winters](https://github.com/Preston2012). Solo. [preston@baseline.marketing](mailto:preston@baseline.marketing).
