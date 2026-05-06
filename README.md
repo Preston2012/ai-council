@@ -4,7 +4,7 @@
 
 One model gives you one perspective. You have no way to know what it missed until production tells you. The AI Council Method fixes that by running multiple AI models in parallel on the same task, then using human judgment to reconcile the strongest elements into a single, verified output.
 
-This is not an automated pipeline. This is not a wrapper or an SDK. This is a documented methodology for how one engineer orchestrates Claude, GPT, Gemini, and Grok to produce work that no single model can match alone.
+Not an automated pipeline, not a wrapper, not an SDK. A documented methodology for how one engineer orchestrates Claude, GPT, Gemini, and Grok to produce work no single model can match alone.
 
 ---
 
@@ -21,7 +21,7 @@ This is not an automated pipeline. This is not a wrapper or an SDK. This is a do
 
 ## What Is This?
 
-This is a methodology repository. It contains the complete, documented process for running multi-model AI council sessions: sending the same task to 2-4 AI models independently, collecting their outputs without cross-contamination, and reconciling the best elements into a final deliverable under human supervision.
+This is a methodology repository. It documents the full process for running a multi-model council session: send the same task to 2-4 models independently, collect outputs without cross-contamination, reconcile the strongest elements into a final deliverable under human supervision.
 
 The methodology was developed across 500+ real build sessions producing production software. Every pattern, rule, and template in this repo comes from practical experience, not theory.
 
