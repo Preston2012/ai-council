@@ -132,7 +132,7 @@ The bar is the same one applied to the methodology itself: real experience, conc
 
 ## Contact
 
-Preston - [preston@baseline.marketing](mailto:preston@baseline.marketing)
+Preston - [preston@winterscode.com](mailto:preston@winterscode.com)
 
 ## License
 
@@ -151,4 +151,4 @@ This methodology is not theoretical. It is in active use across:
 
 Coming next: **[Memory Sovereignty Principles](https://github.com/Preston2012/memory-sovereignty-principles).** A spec + benchmark for personal AI memory, drafted and audited via council.
 
-[Preston Winters](https://github.com/Preston2012). Solo. [preston@baseline.marketing](mailto:preston@baseline.marketing).
+[Preston Winters](https://github.com/Preston2012). Solo. [preston@winterscode.com](mailto:preston@winterscode.com).
