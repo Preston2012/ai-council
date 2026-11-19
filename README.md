@@ -122,7 +122,7 @@ The AI Council Method produced these projects:
 - **[Trading Toolkit](https://github.com/Preston2012/trading-toolkit)** - Trading application with real-time data processing and portfolio management
 - **[Portfolio](https://baseline.marketing/built)** - Live portfolio showcasing applications built with this methodology
 
-Status today: Baseline is free and coming to Google Play and the App Store (not in either store yet). Gauge is a free weather app, test build only. Chere' is a contractor back-office app, in beta. StainSlayer ran on Google Play and the App Store for most of 2026 and was retired on 2026-11-07. 100,000+ lines of code across all projects.
+Status today: Baseline is free and coming to Google Play and the App Store (not in either store yet). Chere' is a contractor back-office app, in beta. StainSlayer ran on Google Play and the App Store for most of 2026 and was retired on 2026-11-07. 100,000+ lines of code across all projects.
 
 ## Contributing
 
